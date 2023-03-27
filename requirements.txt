@@ -1,0 +1,3 @@
+pytorch=1.12+cu118
+numpy=1.22.4
+torchvision
