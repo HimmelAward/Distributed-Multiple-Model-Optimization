@@ -3,7 +3,7 @@
 已经坏掉的分布式多节点权重矩阵：
         
         
-        在configs.py里的ar，ac分别对应主模型和辅助模型
+        在configs.py里的ar，ac分别对应主模型和辅助模型的权重矩阵
 
 
 具体数学过程在main.py里的 update_grad 和update_xy-grad
